@@ -1,9 +1,6 @@
 /**
  * Title: AVL Trees and Heaps
  * Author: Yakup Emre Celebi
- * ID: 22302267
- * Section: 2
- * Homework: 2
  * Description: Task scheduler simulation using Max-Heap and Min-Heap.
  */
 
