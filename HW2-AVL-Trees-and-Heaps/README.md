@@ -38,6 +38,7 @@ make all
 
 # Clean the directory
 make clean
+```
 
 ---
 *Disclaimer: This repository is intended to serve as a personal portfolio. Copying these solutions for academic submissions is a violation of the Bilkent University Honor Code.*
